@@ -1,0 +1,27 @@
+OPTIMAL
+x_EB = 0.0
+x_CG = 2.0
+x_GE = 1.0
+x_FE = 0.0
+x_BE = 1.0
+x_EF = 1.0
+x_CE = 0.0
+x_AB = 0.0
+x_HF = 1.0
+x_GH = 1.0
+x_FH = 0.0
+x_EG = 0.0
+x_BA = 1.0
+x_EC = 1.0
+x_CA = 0.0
+x_HG = 0.0
+x_FB = 1.0
+x_FD = 1.0
+x_BD = 0.0
+x_AC = 1.0
+x_DB = 1.0
+x_BF = 0.0
+x_AE = 1.0
+x_EA = 1.0
+x_DF = 0.0
+x_GC = 0.0
